@@ -1,0 +1,3 @@
+[submodule "earthsync_UI"]
+	path = earthsync_UI
+	url = https://github.com/DEBDEEP-BANERJ2E/earthsync_UI.git
